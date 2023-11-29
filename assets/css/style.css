@@ -44,6 +44,16 @@ h1 {
     list-style-type: none;
 }
 
+/* Navbar style and put a dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #CBF7FF;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 3px 3px #404040;
+    display: none;
+}
 
 /* Main content */
 main {
