@@ -29,12 +29,21 @@ header {background-color: #CBF7FF;
 
 header a {
     text-decoration:dashed;
-    color: inherit;
+    color: #000000;
 }
 
 h1 {
     font-family: 'Merriweather', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: normal;
 }
+
+#menu {
+    font-size: medium;
+    letter-spacing: normal;
+    list-style-type: none;
+}
+
 
 /* Main content */
 main {
@@ -45,5 +54,5 @@ flex: 1 0 auto;
 
 /* Footer */
 footer {
-    background-color:#404040;
+    background-color:#FFFFFF;
 }
