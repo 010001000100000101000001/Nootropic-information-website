@@ -19,12 +19,17 @@ body {
 }
 
 /* Header */
-header {background-color:#61A5CA;
+header {background-color: #CBF7FF;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 3px 3px #404040;
+}
+
+header a {
+    text-decoration:dashed;
+    color: inherit;
 }
 
 h1 {
