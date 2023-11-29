@@ -74,13 +74,24 @@ navigation-toggle-label {
 
 /* Main content */
 main {
-background-color: #ED992A;
 /* This forces the main element to take up any spare space to push the footer down */
 flex: 1 0 auto;
 margin-top: 80px;
 }
 
+/* Hero section */
+#hero {
+height: 600px;
+width: 100%;
+background: url("../images/brain-hero-image.webp") no-repeat center center/cover;
+}
+
 /* Footer */
 footer {
     background-color:#FFFFFF;
+}
+
+/* Media queries: tablets and larger screens, 768px and above */
+@media screen and (min-width: 768px) {
+    
 }
