@@ -5,6 +5,15 @@ margin: 0;
 box-sizing: border-box;
 }
 
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic styles */
+    color: #404040;
+}
+
 /* Header */
 header {background-color:#61A5CA;
 }
@@ -12,6 +21,8 @@ header {background-color:#61A5CA;
 /* Main content */
 main {
 background-color: #ED992A;
+/* This forces the main element to take up any spare space to push the footer down */
+flex: 1 0 auto;
 }
 
 /* Footer */
