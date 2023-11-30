@@ -16,6 +16,7 @@ body {
     /* Generic styles */
     color: #404040;
     font-family: 'Karla', sans-serif;
+    margin: 0;
 }
 
 /* Header */
@@ -74,24 +75,91 @@ navigation-toggle-label {
 
 /* Main content */
 main {
-/* This forces the main element to take up any spare space to push the footer down */
-flex: 1 0 auto;
-margin-top: 80px;
+/* Margin-top adjusted for the fixed header */
+margin-top: 120px;
+display: flex;
+flex-direction: column;
 }
 
-/* Hero section */
-#hero {
-height: 600px;
-width: 100%;
-background: url("../images/brain-hero-image.webp") no-repeat center center/cover;
+.hero-image img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
+
+.centered-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Adjust margin as needed */
+}
+
+/* Image styles */
+.centered-image img {
+    max-width: 100%; 
+    height: auto;
+    max-height: 80vh; 
+    width: auto; 
+}
+
+
+.additional-information {
+    margin-bottom: 80px; 
+	}
 
 /* Footer */
 footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color:#FFFFFF;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0px -2x 5px
+}
+
+* Hide the  checkbox */
+.disclaimer-toggle {
+    display: block;
+}
+
+
+.disclaimer-label {
+    cursor: pointer;
+    background-color: #CBF7FF; /* Replace with your desired color */
+    padding: 5px;
+    margin: 0;
+}
+
+/* Hides the disclaimer content by default */
+.disclaimer-content {
+    display: none;
+}
+
+/* Show the disclaimer content when the checkbox is clicked on */
+.disclaimer-toggle:checked ~ .disclaimer-content {
+    display: block;
 }
 
 /* Media queries: tablets and larger screens, 768px and above */
 @media screen and (min-width: 768px) {
+    height: 600px;
     
 }
+nav {
+    display: block;
+    position: relative; 
+    background-color: transparent;
+    width: auto;
+    box-shadow: none;
+  }
+
+  #nav-toggle {
+    display: none; /* Hide checkbox for larger screens */
+  }
+  
+centered-image {
+    margin-top: 40px; 
+    max-height: 50vh;
+}
+

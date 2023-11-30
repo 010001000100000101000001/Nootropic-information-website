@@ -1,39 +1,29 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+# Nootropic Information Website
+This is a website providing information about some types of Nootropics. Particularly focusing on dietary supplements that are natural and known to be safe and effective.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+ Nootropics are substances, often in the form of supplements (but can be derived from food) that individuals use to potentially enhance cognitive function which people report benefits such as improved memory, increased focus, increased productivity, the ability to learn new skills quickly and  reduced feelings of stress which is likely due to lowered levels of the stress hormone cortisol.
+ 
+ ## **Features**
+  _**Navigation**_
+   * At the top of the page in the navigation menu, there is Home, Supplements and Contact links.
+   
+   * 
+  
+ 
+ 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+### Disclaimer:
 
-## Codeanywhere Reminders
+This website only offers information that is meant to be helpful and informative. It is a personal interest which I like to research. It is not meant to serve as a replacement for expert medical advice, diagnosis, or care. The information provided here should not be interpreted as medical advice since I do not offer it. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+This website's content about nootropics and cognitive improvement is based on studies, research, and general information that has been accessible as of the specified date. See a qualified healthcare provider or medical practitioner before beginning any supplement regimen or making any changes to your health practises, including using nootropics or any other dietary supplements.
 
-`python3 -m http.server`
+You assume all risk if you rely on any information found on this website. I disclaim all liability for any effects that may result from using the material on this website.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
 
-`http_server`
+## Credits
+brain-hero-image Image by <a href="https://pixabay.com/users/elisariva-1348268/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2062057">Elisa</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2062057">Pixabay</a>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+<a href="https://www.freepik.com/free-vector/creative-idea-thinking-brain-icon_3425206.htm#query=Focused%20brain&position=32&from_view=search&track=ais&uuid=3fe9eb77-49cd-44ba-9900-121f375a67e2">Image by rawpixel.com</a> on Freepik
