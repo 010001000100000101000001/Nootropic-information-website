@@ -119,10 +119,7 @@ footer {
     background-color:#FFFFFF;
     padding: 20px 0;
     text-align: center;
-    box-shadow: 0px -2x 5px
-    justify-content: space-between;
-    align-items: center;
-    box-shadow: 0px -2px 5px;
+    box-shadow: 0px 2px 5px;
 }
 #social-networks ul {
     list-style: none;
@@ -163,9 +160,6 @@ footer {
 
 /* Media queries: tablets and larger screens, 768px and above */
 @media screen and (min-width: 768px) {
-    height: 600px;
-}
-
  /* Header */
  nav {
     display: block;
@@ -182,13 +176,15 @@ align-items: flex-start;
 
 #menu {
     display: flex;
+    /* Align the menu to the right */
+    justify-content: flex-end;
 }
 
 #menu > li {
     padding-left: 1rem;
 }
 
-.nav-toggle-label {
+.navigation-toggle-label {
     display: none;
 }
 
@@ -204,13 +200,20 @@ nav {
     display: none; /* Hide checkbox for larger screens */
   }
   
-centered-image {
+.centered-image {
     margin-top: 40px; 
     max-height: 50vh;
 }
 
+nav {
+    display: flex;
+    align-items: center;
+}
+
+
+
 @media screen and (min-width: 992px) {
-    #menu a:hover{
+    #menu a:hover {
         border-bottom: 1px solid lightcyan;
     }
 }
