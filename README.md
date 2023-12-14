@@ -31,3 +31,9 @@ brain-hero-image Image by <a href="https://pixabay.com/users/elisariva-1348268/?
 l-theanine image on supplements.html page is from pixabay <https://pixabay.com/photos/teacup-cup-of-tea-tea-drink-hot-2324842/>
 
 fish-oils image on supplements.html page is from pixabay Image by <a href="https://pixabay.com/users/leohoho-16235524/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6355910">Leohoho</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6355910">Pixabay</a>
+
+gingko-biloba image <https://pixabay.com/photos/gingko-biloba-leaves-nature-2691061/>
+
+rhodiola-rosea Image by <a href="https://pixabay.com/users/monicore-1499084/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2412436">Monika</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2412436">Pixabay</a>
+
+
