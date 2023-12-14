@@ -98,7 +98,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    z-index: -1;
 }
 
 /* Image styles */
@@ -116,6 +116,9 @@ h2 {
 .additional-information {
     text-align: justify;
     margin-top: 20px;
+    margin-bottom: 100px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 /* Footer */
@@ -218,8 +221,10 @@ footer {
     }
 
     .centered-image {
-        margin-top: 40px;
-        max-height: 50vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: -1;
     }
 
     nav {
@@ -237,9 +242,10 @@ footer {
             font-size: 1.2rem;
         }
 
-        .additional-information{
+        .additional-information {
             padding-bottom: 100px;
         }
+
         .additional-information li {
             font-size: 1.2rem;
         }
