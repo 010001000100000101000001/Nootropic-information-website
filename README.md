@@ -27,3 +27,7 @@ You assume all risk if you rely on any information found on this website. I disc
 brain-hero-image Image by <a href="https://pixabay.com/users/elisariva-1348268/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2062057">Elisa</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2062057">Pixabay</a>
 
 <a href="https://www.freepik.com/free-vector/creative-idea-thinking-brain-icon_3425206.htm#query=Focused%20brain&position=32&from_view=search&track=ais&uuid=3fe9eb77-49cd-44ba-9900-121f375a67e2">Image by rawpixel.com</a> on Freepik
+
+l-theanine image on supplements.html page is from pixabay <https://pixabay.com/photos/teacup-cup-of-tea-tea-drink-hot-2324842/>
+
+fish-oils image on supplements.html page is from pixabay Image by <a href="https://pixabay.com/users/leohoho-16235524/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6355910">Leohoho</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6355910">Pixabay</a>
