@@ -195,7 +195,10 @@ footer {
     flex: 1;
     /* Spacing around text */
     padding: 0 20px;
+    /*Reduced margin-bottom*/
+    margin-bottom: 50px;
 }
+
 /*Styles for contact form*/
 .contact-form {
     display: flex;
