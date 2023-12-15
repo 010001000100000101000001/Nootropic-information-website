@@ -72,4 +72,5 @@ A standard 'Contact Us' page is available for inquiries.
 ---
 
 **Screenshots**
+![Screenshot 2023-12-15 143427](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/daaf67d0-6668-470c-b77e-ceac82583470)
 
