@@ -2,106 +2,74 @@
 
 ## Introduction
 
-This website is a comprehensive resource about Nootropics, focusing on natural dietary supplements. It aims to educate on the cognitive benefits and safety of various Nootropics.
+Welcome to the Nootropic Information Website, a comprehensive resource focused on natural dietary supplements known as Nootropics. Our goal is to educate visitors on the cognitive benefits and safety of various Nootropics, offering an informative platform for those interested in enhancing their mental abilities through natural means.
 
 ## Features
 
 ### Navigation
 
-The website features a top navigation menu with links to Home, Supplements, and Contact pages.
+- **Top Navigation Menu**: This feature includes links to Home, Supplements, and Contact pages, facilitating easy navigation across the site. 
 
-![Screenshot 2023-12-15 165904](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/da79b2d8-4294-4ab8-8e96-c0034bfe45e7)
-
+![Navigation Menu](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/da79b2d8-4294-4ab8-8e96-c0034bfe45e7)
 
 ### Main Content
 
-- **Hero Section**: An engaging hero image and introduction to Nootropics.
-- **Informative Sections**: Detailed insights into different Nootropics.
+- **Hero Section**: An engaging section at the top of the home page with a captivating image and introduction to Nootropics.
 
-  ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/1f50c7c1-25e6-4cc1-9518-c2c0d3c81bc8)
+- **Informative Sections**: Detailed information about different Nootropics is provided in these sections.
 
-  ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/c0abcff5-baa3-4d72-b960-979046d03f37)
+  ![Informative Section 1](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/1f50c7c1-25e6-4cc1-9518-c2c0d3c81bc8)
 
-
+  ![Informative Section 2](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/c0abcff5-baa3-4d72-b960-979046d03f37)
 
 ### Images
 
-High-quality images from Pixabay and Freepik enhance the content.
+- The website includes high-quality images to enhance the content's visual appeal and understanding.
 
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/7058c2fd-2d68-4ae2-b948-09caf7123233)
+  ![Image 1](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/7058c2fd-2d68-4ae2-b948-09caf7123233)
 
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a68eb18f-18c2-4cde-a107-6938da371061)
+  ![Image 2](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a68eb18f-18c2-4cde-a107-6938da371061)
 
-
-
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/40e8e173-1159-4257-9c23-dfdf8fcb0cec)
-
-
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/4f979662-3bb2-4b5f-94f7-5f16fca0f3e8)
-
+  ...
 
 ### Footer
 
-Includes social media links and a detailed disclaimer.
+- The footer contains links to social media and a detailed disclaimer about the site's content.
 
-
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a928785e-5b69-4d89-ac7e-98f3f539dac9)
-
-
+  ![Footer](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a928785e-5b69-4d89-ac7e-98f3f539dac9)
 
 ## Disclaimer
 
-The content is for informational purposes and not a substitute for medical advice.
-
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a267aac9-6691-4a57-b234-28f6a4f0a366)
-
+Please note that the content provided on this website is for informational purposes only and is not intended as a substitute for professional medical advice.
 
 ## Credits
 
-Images sourced from Pixabay and Freepik.
+### Media
+
+- All images used on this site are sourced from Pixabay and Freepik.
 
 ## Technical Details
 
 ### HTML and CSS
 
-- **Header**: Contains the logo and navigation.
-- **Main**: Core content about Nootropics.
-- **Footer**: Social media links and disclaimer.
-
-### Stylesheet
-
-The website uses `style.css` for consistent, responsive design across devices.
-
-### Favicon
-
-Custom favicons for different devices and resolutions are included.
+- The website is structured using HTML and styled with CSS, ensuring a responsive and visually appealing layout.
 
 ### Validation and Testing
 
-- **CSS Validation**: Checked on [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
-- **HTML Validation**: Verified using [W3C Markup Validation Service](https://validator.w3.org/).
-- **Responsive Testing**: Tested on various devices using browser dev tools.
-- **Accessibility Testing**: Checked using Lighthouse.
-- **Additional Testing**: Responsiveness tested on [Am I Responsive?](https://amiresponsive.co.uk/).
+- The site's HTML and CSS have been validated using W3C services and tested across different browsers and devices.
 
 ### Deployment
 
-- The website is deployed on Github
-- Post-deployment, the site was thoroughly tested on different browsers (including Chrome, Firefox, Safari, and Edge) to ensure compatibility and responsiveness.
+- The website is hosted on GitHub Pages, ensuring wide accessibility and ease of maintenance.
 
 ### Contact Page
 
-A standard 'Contact Us' page is available for inquiries.
+- A dedicated contact page is available for visitor inquiries and feedback.
 
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/fbc3f25c-0ce4-4564-9ccf-2da265c493da)
-
+  ![Contact Page](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/fbc3f25c-0ce4-4564-9ccf-2da265c493da)
 
 ### Additional Notes
 
-- The site utilizes Font Awesome for icons.
+- The website uses Font Awesome icons for enhanced user experience and design.
 
 ---
-
-**Screenshots**
-![Screenshot 2023-12-15 143427](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/daaf67d0-6668-470c-b77e-ceac82583470)
-
