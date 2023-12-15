@@ -176,6 +176,14 @@ footer {
     display: block;
 }
 
+/* Styles for Supplements Page */
+.supplements-page section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
 /* Media queries: tablets and larger screens, 768px and above */
 @media screen and (min-width: 768px) {
 
