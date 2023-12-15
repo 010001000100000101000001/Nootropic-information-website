@@ -28,6 +28,18 @@ The website features a top navigation menu with links to Home, Supplements, and 
 
 High-quality images from Pixabay and Freepik enhance the content.
 
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/7058c2fd-2d68-4ae2-b948-09caf7123233)
+
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a68eb18f-18c2-4cde-a107-6938da371061)
+
+
+
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/40e8e173-1159-4257-9c23-dfdf8fcb0cec)
+
+
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/4f979662-3bb2-4b5f-94f7-5f16fca0f3e8)
+
+
 ### Footer
 
 Includes social media links and a detailed disclaimer.
