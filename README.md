@@ -1,39 +1,70 @@
-
 # Nootropic Information Website
-This is a website providing information about some types of Nootropics. Particularly focusing on dietary supplements that are natural and known to be safe and effective.
 
- Nootropics are substances, often in the form of supplements (but can be derived from food) that individuals use to potentially enhance cognitive function which people report benefits such as improved memory, increased focus, increased productivity, the ability to learn new skills quickly and  reduced feelings of stress which is likely due to lowered levels of the stress hormone cortisol.
- 
- ## **Features**
-  _**Navigation**_
-   * At the top of the page in the navigation menu, there is Home, Supplements and Contact links.
-   
-   * 
-  
- 
- 
+## Introduction
+This website is dedicated to providing comprehensive information about Nootropics, focusing on natural dietary supplements. Nootropics, often used to enhance cognitive functions, include improved memory, focus, productivity, and stress reduction.
 
-### Disclaimer:
+## Features
 
-This website only offers information that is meant to be helpful and informative. It is a personal interest which I like to research. It is not meant to serve as a replacement for expert medical advice, diagnosis, or care. The information provided here should not be interpreted as medical advice since I do not offer it. 
+### Navigation
+The website has a top navigation menu with links to:
+- **Home**: The main page with introductory information.
+- **Supplements**: Pages detailing different Nootropic supplements.
+- **Contact**: A form for users to send inquiries or messages.
 
-This website's content about nootropics and cognitive improvement is based on studies, research, and general information that has been accessible as of the specified date. See a qualified healthcare provider or medical practitioner before beginning any supplement regimen or making any changes to your health practises, including using nootropics or any other dietary supplements.
+### Main Content
+- **Hero Section**: Features an engaging hero image to capture the user's attention.
+- **Information Sections**: Detailed descriptions and benefits of various Nootropics.
 
-You assume all risk if you rely on any information found on this website. I disclaim all liability for any effects that may result from using the material on this website.
+### Images
+High-quality images are used throughout the site to enhance the user experience. Credits for images include:
+- Brain hero image by Elisa from Pixabay.
+- Images from rawpixel.com on Freepik.
+- L-theanine, fish oils, ginkgo biloba, and rhodiola rosea images from Pixabay.
 
+### Footer
+The footer contains social media links and a concise disclaimer.
 
+## Disclaimer
+The content is informational and not a substitute for professional medical advice. It is based on research available up to the specified date. Users should consult healthcare professionals before starting any supplement regimen.
 
 ## Credits
-brain-hero-image Image by <a href="https://pixabay.com/users/elisariva-1348268/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2062057">Elisa</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2062057">Pixabay</a>
+Images sourced from Pixabay and Freepik. 
 
-<a href="https://www.freepik.com/free-vector/creative-idea-thinking-brain-icon_3425206.htm#query=Focused%20brain&position=32&from_view=search&track=ais&uuid=3fe9eb77-49cd-44ba-9900-121f375a67e2">Image by rawpixel.com</a> on Freepik
+## Technical Details
 
-l-theanine image on supplements.html page is from pixabay <https://pixabay.com/photos/teacup-cup-of-tea-tea-drink-hot-2324842/>
+### HTML and CSS
+The website's structure and style are defined in HTML and CSS files. Key HTML elements include:
+- **Header**: With the site logo and navigation menu.
+- **Main**: Core content about Nootropics.
+- **Footer**: Social media and disclaimer.
 
-fish-oils image on supplements.html page is from pixabay Image by <a href="https://pixabay.com/users/leohoho-16235524/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6355910">Leohoho</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6355910">Pixabay</a>
+The CSS file `style.css` ensures a consistent and responsive design.
 
-gingko-biloba image <https://pixabay.com/photos/gingko-biloba-leaves-nature-2691061/>
+### Favicon
+The site includes custom favicons for different devices and resolutions.
 
-rhodiola-rosea Image by <a href="https://pixabay.com/users/monicore-1499084/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2412436">Monika</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2412436">Pixabay</a>
+## Contact Page
+A standard 'Contact Us' page with a form for user inquiries.
 
+## HTML Code Overview
+
+### Home Page (`index.html`)
+- **Header**: Contains the logo and navigation menu.
+- **Hero Section**: An engaging image with a brief introduction to Nootropics.
+- **Content Sections**: Detailed information about the benefits and types of Nootropics.
+
+### Supplements Page (`supplements.html`)
+- **Header**: Consistent with the Home page.
+- **Supplements Section**: Detailed information on L-theanine, fish oils, ginkgo biloba, and rhodiola rosea, including their cognitive benefits and images.
+
+### Contact Page
+- A simple and user-friendly contact form.
+
+## Footer
+- Social media links (Facebook, Twitter, YouTube, Instagram).
+- A toggleable disclaimer section.
+
+## Additional Notes
+- The website uses Font Awesome for icons.
+- The content is current as of the last update and will need periodic reviews for accuracy.
 
