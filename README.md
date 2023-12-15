@@ -77,3 +77,8 @@ Please note that the content provided on this website is for informational purpo
 - The website uses Font Awesome icons for enhanced user experience and design.
 
 ---
+
+### Site tested for responsiveness and how it appears on various screen sizes
+
+![Screenshot 2023-12-15 143427](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a2a20632-2f4c-4520-82d6-9dd52f04ab9e)
+
