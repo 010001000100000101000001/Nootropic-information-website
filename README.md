@@ -39,8 +39,12 @@ Welcome to the Nootropic Information Website, a comprehensive resource focused o
   ![Footer](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a928785e-5b69-4d89-ac7e-98f3f539dac9)
 
 ## Disclaimer
+When "Disclaimer" is clicked on a disclaimer opens up.
 
 Please note that the content provided on this website is for informational purposes only and is not intended as a substitute for professional medical advice.
+
+![Screenshot 2023-12-15 170737](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/ba887c99-a140-4e7e-87a3-eda03d9a33c3)
+
 
 ## Credits
 
