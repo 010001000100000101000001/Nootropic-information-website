@@ -138,63 +138,76 @@ footer {
     justify-content: center;
     padding: 0;
     margin: 0;
-}
+    }
+    
+    #social-networks li {
+        margin-right: 10px;
+    }
+    
+    #social-networks a i {
+        margin-right: 24px;
+    }
+    
+    #social-networks li:last-child {
+        margin-right: 0;
+    }
+    
+    /* Hide the  checkbox */
+    .disclaimer-toggle {
+        display: none;
+    }
+    
+    
+    .disclaimer-label {
+        margin-top: 30px;
+        cursor: pointer;
+        background-color: #FFFFFF;
+        padding: 5px;
+        margin: 0;
+    }
+    
+    /* Hides the disclaimer content by default */
+    .disclaimer-content {
+        display: none;
+    }
+    
+    /* Show the disclaimer content when the checkbox is clicked on */
+    .disclaimer-toggle:checked~.disclaimer-content {
+        display: block;
+    }
+    
+    /* Styles for Supplements Page */
+    .supplements-page section {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-bottom: 2rem;
+    }
+    
+    .supplements-page section div#images {
+        /* Assign equal importance to images and text */
+        flex: 1;
+        /* Center images */
+        text-align: center;
+    }
+    
+    .supplements-page section div#text {
+        flex: 1;
+        /* Spacing around text */
+        padding: 0 20px;
+    }
+    
+    .contact-form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
 
-#social-networks li {
-    margin-right: 10px;
-}
-
-#social-networks a i {
-    margin-right: 24px;
-}
-
-#social-networks li:last-child {
-    margin-right: 0;
-}
-
-/* Hide the  checkbox */
-.disclaimer-toggle {
-    display: none;
-}
-
-
-.disclaimer-label {
-    margin-top: 30px;
-    cursor: pointer;
-    background-color: #FFFFFF;
-    padding: 5px;
-    margin: 0;
-}
-
-/* Hides the disclaimer content by default */
-.disclaimer-content {
-    display: none;
-}
-
-/* Show the disclaimer content when the checkbox is clicked on */
-.disclaimer-toggle:checked~.disclaimer-content {
-    display: block;
-}
-
-/* Styles for Supplements Page */
-.supplements-page section {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-bottom: 2rem;
-}
-
-.supplements-page section div#images {
-    /* Assign equal importance to images and text */
-    flex: 1;
-    /* Center images */
-    text-align: center;
-}
-
-.supplements-page section div#text {
-    flex: 1;
-    /* Spacing around text */
-    padding: 0 20px;
+#contact {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px;
 }
 
 /* Media queries: tablets and larger screens, 768px and above */
