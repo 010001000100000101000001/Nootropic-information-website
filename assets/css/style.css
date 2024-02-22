@@ -178,7 +178,6 @@
     src: url(https://fonts.gstatic.com/s/merriweathersans/v26/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4ViesH.woff2) format('woff2');
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
 /* Asterisk wild card selector to override default styles applied by the browser */
 * {
     padding: 0;
@@ -262,7 +261,6 @@ main {
     margin-left: 5px;
     margin-right: 5px;
     box-shadow: none;
-
 }
 
 .hero-image img {
@@ -330,11 +328,10 @@ footer {
     margin-right: 0;
 }
 
-/* Hide the  checkbox */
+/* Hide the checkbox */
 .disclaimer-toggle {
     display: none;
 }
-
 
 .disclaimer-label {
     margin-top: 30px;
@@ -377,6 +374,7 @@ footer {
     margin-bottom: 50px;
 }
 
+
 /*Styles for contact form*/
 .contact-form {
     display: flex;
@@ -384,6 +382,7 @@ footer {
     align-items: center;
     padding: 20px;
 }
+
 
 #contact {
     background-color: #333333;
@@ -396,80 +395,42 @@ footer {
     width: 100%;
 }
 
-/* Media queries: tablets and larger screens, 768px and above */
-@media screen and (min-width: 768px) {
+/* Media query for larger screens */
+@media screen and (min-width: 992px) {
+    h1 {
+        font-size: 3rem;
+    }
 
-    /* Header */
-    nav {
+    p {
+        font-size: 1.2rem;
+    }
+
+    .additional-information {
+        padding-bottom: 100px;
+    }
+
+    .additional-information li {
+        font-size: 1.2rem;
+    }
+
+    .disclaimer-label {
+        font-size: 1.2rem;
+    }
+
+    .disclaimer-content {
+        font-size: 1.1rem;
+    }
+
+    .hero-image img {
+        max-width: 100%;
+        height: auto;
         display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        padding-right: 1rem;
-    }
-
-    header {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    #menu {
-        display: flex;
-        /* Align the menu to the right */
-        justify-content: flex-end;
-    }
-
-    #menu>li {
-        padding-left: 1rem;
-    }
-
-    .navigation-toggle-label {
-        display: none;
-    }
-
-    nav {
-        display: block;
-        position: relative;
-        background-color: transparent;
-        width: auto;
-        box-shadow: none;
-    }
-
-    #nav-toggle {
-        display: none;
-        /* Hide checkbox for larger screens */
     }
 
     .centered-image {
         display: flex;
         justify-content: center;
         align-items: center;
-    }
-
-    .centered-image img {
-        max-width: 90%;
-        max-height: 70vh;
-    }
-
-    main {
-        margin-top: 140px;
-    }
-
-    footer {
-        position: relative;
-    }
-}
-
-/* Media queries: desktops and larger screens, 992px and above */
-@media screen and (min-width: 992px) {
-    main {
-        margin-top: 160px;
-    }
-}
-
-/* Media queries: extra-large screens, 1200px and above */
-@media screen and (min-width: 1200px) {
-    main {
-        margin-top: 180px;
+        z-index: -1;
     }
 }
