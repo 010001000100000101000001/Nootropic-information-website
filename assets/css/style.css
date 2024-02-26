@@ -67,6 +67,10 @@ h1 {
     list-style-type: none;
 }
 
+#menu li {
+    margin: 0 10px; /* Add margin between navigation items */
+}
+
 nav {
     position: absolute;
     background-color: #CBF7FF;
