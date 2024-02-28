@@ -130,6 +130,10 @@ h2 {
     margin-bottom: 10px
 }
 
+#hero h2 {
+    margin-top: 20px;
+}
+
 .additional-information {
     text-align: justify;
     margin-top: 20px;
