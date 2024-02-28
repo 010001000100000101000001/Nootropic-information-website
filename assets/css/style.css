@@ -225,8 +225,18 @@ footer {
     width: 100%;
 }
 
-/* Media query for larger screens */
-@media screen and (min-width: 992px) {
+/* Media query for mobile screens */
+@media screen and (max-width: 576px) {
+    
+}
+
+/* Media query for tablet screens */
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    
+}
+
+/* Media query for laptop screens */
+@media screen and (min-width: 769px) and (max-width: 992px) {
     h1 {
         font-size: 3rem;
     }
@@ -263,4 +273,8 @@ footer {
         align-items: center;
         z-index: -1;
     }
+}
+
+/* Media query for desktop screens */
+@media screen and (min-width: 993px) {
 }
