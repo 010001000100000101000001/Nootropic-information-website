@@ -225,11 +225,6 @@ footer {
     width: 100%;
 }
 
-/* Media query for mobile screens */
-@media screen and (max-width: 576px) {
-    
-}
-
 /* Media query for tablet screens */
 @media screen and (min-width: 577px) and (max-width: 768px) {
     
