@@ -273,7 +273,9 @@ margin-top: 20px;
 
 #contact-form input[type="submit"] {
     width: 100%;
-    padding: 10px;
+    background-color: #CBF7FF;
+    color: #000000;
+    border-radius: 5px;
 }
 
 /* Media query for larger screens */
