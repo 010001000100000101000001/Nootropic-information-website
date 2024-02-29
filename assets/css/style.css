@@ -223,6 +223,10 @@ footer {
     margin-bottom: 50px;
 }
 
+#l-theanine .text h3 {
+    margin-top: 20px;
+}
+
 /*Styles for contact form*/
 .contact-form {
     display: flex;
