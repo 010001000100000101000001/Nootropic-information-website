@@ -239,6 +239,10 @@ margin-top: 20px;
     margin-top: 20px;
 }
 
+#rhodiola-rosea {
+    margin-bottom: 50px;
+}
+
 /*Styles for contact form*/
 .contact-form {
     display: flex;
