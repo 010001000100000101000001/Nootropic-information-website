@@ -110,6 +110,8 @@ main {
     height: auto;
     display: block;
     max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .centered-image {
@@ -146,6 +148,8 @@ h2 {
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
+    display: flex;
+    align-items: center;
 }
 
 .additional-information h2 {
