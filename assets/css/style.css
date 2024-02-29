@@ -231,6 +231,14 @@ footer {
     margin-top: 20px;
 }
 
+#ginkgo-biloba .text h3 {
+margin-top: 20px;
+}
+
+#rhodiola-rosea .text h3{
+    margin-top: 20px;
+}
+
 /*Styles for contact form*/
 .contact-form {
     display: flex;
