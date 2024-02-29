@@ -148,6 +148,11 @@ h2 {
     text-align: center;
 }
 
+.additional-information h2 {
+    margin-top: 20px;
+}
+
+
 /* Footer */
 footer {
     position: fixed;
