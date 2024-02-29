@@ -276,6 +276,7 @@ margin-top: 20px;
     background-color: #CBF7FF;
     color: #000000;
     border-radius: 5px;
+    border: 1px solid #ccc;
 }
 
 /* Media query for larger screens */
