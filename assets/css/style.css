@@ -174,6 +174,7 @@ footer {
 
 #social-networks li {
     margin-right: 10px;
+    color: #CBF7FF;
 }
 
 #social-networks a i {
@@ -270,6 +271,10 @@ margin-top: 20px;
     box-sizing: border-box;
 }
 
+#contact-form input[type="submit"] {
+    width: 100%;
+}
+
 /* Media query for larger screens */
 @media screen and (min-width: 992px) {
     #logo {
@@ -304,7 +309,6 @@ margin-top: 20px;
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 70vh;
     }
     
     .hero-image img {
