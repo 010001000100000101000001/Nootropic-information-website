@@ -103,7 +103,6 @@ main {
     margin-right: 5px;
 }
 
-.hero-image img,
 .centered-image img,
 .additional-information .image-container img {
     width: 100%;
@@ -292,10 +291,6 @@ margin-top: 20px;
     border: 1px solid #ccc;
 }
 
-@media screen and (min-width: 449px) and (max-width: 991px) {
-   
-}
-
 /* Media query for larger screens */
 @media screen and (min-width: 992px) {
     #logo {
@@ -333,7 +328,7 @@ margin-top: 20px;
     }
     
     .hero-image img {
-        max-width: 75%;
+        max-width: 100%;
         height: auto;
     }
 
