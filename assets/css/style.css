@@ -253,6 +253,10 @@ margin-top: 20px;
     margin-bottom: 50px;
 }
 
+.supplements-page section:last-child {
+    margin-bottom: 50px;
+}
+
 /*Styles for contact form*/
 #contact {
     background-color: #f0f0f0;
