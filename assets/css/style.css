@@ -342,4 +342,9 @@ margin-top: 20px;
     #contact-form {
         max-width: 100%;
     }
+
+    .supplements-page section {
+        flex-direction: row;
+        align-items: flex-start;
+    }
 }
