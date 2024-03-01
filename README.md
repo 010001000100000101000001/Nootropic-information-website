@@ -40,6 +40,15 @@ As you scroll down the page there is more images and more information about noot
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/1efee791-9187-4993-bdd8-9612b2c0b885)
 
+
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/5186f409-ac6f-4b2a-9fcd-b3d1f7ee47cc)
+
+
+
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a3f57722-f268-47f8-85d9-8cebdd96204d)
+
+
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a20a0a9c-5ec1-422e-8daf-4bdea007272a)
 
 
