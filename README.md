@@ -13,7 +13,8 @@ Before delving into any supplement regimen or making changes to your health habi
 # Features
 
 ## Navigation
-- The website includes a navigation menu for easy access to different sections such as Home, Supplements, and Contact pages.
+The website includes a navigation menu for easy access to different sections such as Home, Supplements, and Contact pages.
+
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/8b030193-a7c4-4519-b9bb-613b5ff79f23)
 
@@ -21,11 +22,21 @@ Before delving into any supplement regimen or making changes to your health habi
 ## Main Content
 
 **Hero Section**: At the top of the home page, there's an engaging section featuring a captivating image and an introduction to Nootropics, setting the tone for the website.
+
+
+
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a8049304-347e-4f53-b1c2-457c71654a1b)
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/b6bdf992-727d-4ed1-9041-83fe3a0e1733)
 
+
+
+
+
 As you scroll down the page there is more images and more information about nootropics.
+
+
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/1efee791-9187-4993-bdd8-9612b2c0b885)
 
@@ -39,20 +50,32 @@ As you scroll down the page there is more images and more information about noot
 **Informative Sections**: Detailed information about different Nootropics is provided in these sections, offering insights into their cognitive benefits.
   
 L-theanine: Information about L-theanine, its sources, and potential cognitive benefits.
+
+
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/e6143ccd-d21f-4da0-9d9b-4f8880ad7b02)
 
 
 Omega-3 Fatty Acids: Details about omega-3 supplements, their importance for brain health, and potential cognitive advantages.
+
+
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/cc96649d-fe28-4409-a904-6c44d712a485)
 
 
 
 Ginkgo Biloba: Information on Ginkgo biloba extract, its potential cognitive benefits, and antioxidant qualities.
+
+
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/b91c27d2-e2ba-4046-b948-2a658b8b5688)
 
 
 
 Rhodiola Rosea: Details about Rhodiola rosea as a nootropic, its potential cognitive benefits, and stress reduction properties.
+
+
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/88115eb7-81ea-434d-a3cb-d3fc8a5bd1bc)
 
 
@@ -68,6 +91,7 @@ Rhodiola Rosea: Details about Rhodiola rosea as a nootropic, its potential cogni
 ## Disclaimer
 
 Upon clicking "Disclaimer," visitors are presented with a detailed disclaimer, highlighting that the information provided on the website is for informational purposes only and does not constitute medical advice.
+
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/6911c25f-61ac-4b27-850d-8ee19b46ef27)
 
