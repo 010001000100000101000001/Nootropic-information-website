@@ -56,7 +56,9 @@ As you scroll down the page there is more images and more information about noot
 - High-quality images are incorporated to enhance the visual appeal and understanding of the content.
 
 ## Supplements Content
-**Informative Sections**: Detailed information about different Nootropics is provided in these sections, offering insights into their cognitive benefits.
+### **Informative Sections**: Detailed information about different Nootropics is provided in these sections, offering insights into their cognitive benefits:
+
+
   
 L-theanine: Information about L-theanine, its sources, and potential cognitive benefits.
 
