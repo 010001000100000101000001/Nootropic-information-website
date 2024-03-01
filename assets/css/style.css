@@ -49,6 +49,10 @@ header {
     align-items: baseline;
 }
 
+.hero-image img {
+    width: 100%;
+} 
+
 header a {
     text-decoration: dashed;
     color: #000000;
