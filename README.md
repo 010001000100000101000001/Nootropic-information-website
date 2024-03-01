@@ -1,62 +1,67 @@
 # Nootropic Information Website
 
 ## Introduction
+This website serves as a mock platform dedicated to educating visitors about the potential cognitive benefits of different nootropic supplements. Nootropics, also known as cognitive enhancers, encompass a range of substances that individuals use to potentially improve cognitive function, including memory, focus, and mental clarity.
 
-Welcome to the Nootropic Information Website, a comprehensive resource focused on natural dietary supplements known as Nootropics. Our goal is to educate visitors on the cognitive benefits and safety of various Nootropics, offering an informative platform for those interested in enhancing their mental abilities through natural means.
+## Target Audience
+The target audience for this website includes individuals who are interested in exploring natural ways to enhance their cognitive abilities. Whether you're a student looking to improve focus while studying or someone seeking better mental performance in daily life, this platform aims to provide valuable information about various nootropic supplements.
 
-## Features
+## Diclaimer 
+Disclaimer
+Before delving into any supplement regimen or making changes to your health habits, it's crucial to consult with a trained healthcare provider or medical practitioner. The information provided on this website is based on studies, research, and general data available at the time of creation. Users who choose to utilize the information presented here do so at their own risk.
 
-### Navigation
+# Features
 
-- **Top Navigation Menu**: This feature includes links to Home, Supplements, and Contact pages, facilitating easy navigation across the site. 
+## Navigation
+- The website includes a navigation menu for easy access to different sections such as Home, Supplements, and Contact pages.
 
-![Navigation Menu](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/da79b2d8-4294-4ab8-8e96-c0034bfe45e7)
+## Main Content
+- Informative sections are provided, offering an introduction to nootropics and detailed information about their benefits and usage.
+
+## Images
+- High-quality images are incorporated to enhance the visual appeal and understanding of the content.
+
+## Footer
+- The footer contains links to social media platforms and a disclaimer regarding the content presented on the website.
+
+
 
 ### Main Content
 
-- **Hero Section**: An engaging section at the top of the home page with a captivating image and introduction to Nootropics.
+- **Hero Section**: At the top of the home page, there's an engaging section featuring a captivating image and an introduction to Nootropics, setting the tone for the website.
 
-- **Informative Sections**: Detailed information about different Nootropics is provided in these sections.
+- **Informative Sections**: Detailed information about different Nootropics is provided in these sections, offering insights into their cognitive benefits.
 
-  ![Informative Section 1](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/1f50c7c1-25e6-4cc1-9518-c2c0d3c81bc8)
-
-  ![Informative Section 2](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/c0abcff5-baa3-4d72-b960-979046d03f37)
-
-### Images
-
-- The website includes high-quality images to enhance the content's visual appeal and understanding.
-
-  ![Image 1](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/7058c2fd-2d68-4ae2-b948-09caf7123233)
-
-  ![Image 2](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a68eb18f-18c2-4cde-a107-6938da371061)
-
-  ...
 
 ### Footer
 
-- The footer contains links to social media and a detailed disclaimer about the site's content.
+- The footer serves as a navigation aid, containing links to the website's social media profiles. Additionally, it features a detailed disclaimer, emphasizing that the content provided on the site is for informational purposes only and should not be considered as a substitute for professional medical advice.
 
-  ![Footer](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a928785e-5b69-4d89-ac7e-98f3f539dac9)
 
 ## Disclaimer
-When "Disclaimer" is clicked on a disclaimer opens up.
 
-Please note that the content provided on this website is for informational purposes only and is not intended as a substitute for professional medical advice.
-
-![Screenshot 2023-12-15 170737](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/ba887c99-a140-4e7e-87a3-eda03d9a33c3)
+Upon clicking "Disclaimer," visitors are presented with a detailed disclaimer, highlighting that the information provided on the website is for informational purposes only and does not constitute medical advice.
 
 
 ## Credits
 
 ### Media
 
-- All images used on this site are sourced from Pixabay and Freepik.
+All images used on the Nootropic Information Website are sourced from the following platforms and are available under license-free usage:
+
+- [Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)
+- [Freepik](https://www.freepik.com/)
 
 ## Technical Details
 
 ### HTML and CSS
 
-- The website is structured using HTML and styled with CSS, ensuring a responsive and visually appealing layout.
+- - The website's front-end structure is built using HTML, providing a semantic foundation for content organization. CSS styles are applied to create a visually appealing layout, ensuring consistency and coherence across all pages.
+
+### Validation and Testing
+
+- Prior to deployment, the HTML and CSS code underwent thorough validation using W3C services. This validation process ensures that the code complies with industry standards, minimizing the risk of compatibility issues and enhancing the website's overall performance.
 
 ### Validation and Testing
 
@@ -70,7 +75,6 @@ Please note that the content provided on this website is for informational purpo
 
 - A dedicated contact page is available for visitor inquiries and feedback.
 
-  ![Contact Page](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/fbc3f25c-0ce4-4564-9ccf-2da265c493da)
 
 ### Additional Notes
 
@@ -79,6 +83,4 @@ Please note that the content provided on this website is for informational purpo
 ---
 
 ### Site tested for responsiveness and how it appears on various screen sizes
-
-![Screenshot 2023-12-15 143427](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a2a20632-2f4c-4520-82d6-9dd52f04ab9e)
 
