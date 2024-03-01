@@ -212,7 +212,7 @@ footer {
 /* Styles for Supplements Page */
 .supplements-page section {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     align-items: center;
     margin-bottom: 2rem;
 }
@@ -222,6 +222,9 @@ footer {
     text-align: center;
 }
 
+.supplements-page section .images > img {
+    max-width: 439px;
+}
 
 .supplements-page section .text {
     flex: 1;
