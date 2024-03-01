@@ -6,7 +6,7 @@ This website serves as a mock platform dedicated to educating visitors about the
 ## Target Audience
 The target audience for this website includes individuals who are interested in exploring natural ways to enhance their cognitive abilities. Whether you're a student looking to improve focus while studying or someone seeking better mental performance in daily life, this platform aims to provide valuable information about various nootropic supplements.
 
-## Diclaimer 
+## Disclaimer 
 Disclaimer
 Before delving into any supplement regimen or making changes to your health habits, it's crucial to consult with a trained healthcare provider or medical practitioner. The information provided on this website is based on studies, research, and general data available at the time of creation. Users who choose to utilize the information presented here do so at their own risk.
 
