@@ -172,9 +172,6 @@ Once the main branch has been selected, the page will provide a link to the comp
 ### How to fork this repository
 Click on the "Fork" button at the top right of the page and wait for a couple of seconds for the newly forked repository to be created under your GitHub account.
 
-### Contact Page
-
-- A dedicated contact page is available for visitor inquiries and feedback.
 
 
 ### Additional Notes
@@ -193,3 +190,6 @@ Given more time and considering my current commitments, I would focus on enhanci
 ### Site tested for responsiveness and how it appears on various screen sizes
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/ee4deb8b-217d-4957-bdac-7494079e41fa)
+
+### Special Thanks
+Thank you to Matt Boden  who provided me with the guidance and support to complete this project.
