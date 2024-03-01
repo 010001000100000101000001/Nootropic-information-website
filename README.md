@@ -127,7 +127,7 @@ All images used on the Nootropic Information Website are sourced from the follow
 - [Pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Freepik](https://www.freepik.com/)
-- [Flickr] (https://www.flickr.com/}
+- [Flickr] (https://www.flickr.com/)
 
 ## Technical Details
 
