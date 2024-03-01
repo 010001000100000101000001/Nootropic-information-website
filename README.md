@@ -19,20 +19,32 @@ Before delving into any supplement regimen or making changes to your health habi
 
 
 ## Main Content
-- Informative sections are provided, offering an introduction to nootropics and detailed information about their benefits and usage.
+- Informative sections are provided, offering an introduction to nootropics and detailed information about their benefits and some information about the history of nootropics.
 
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/9e4a107b-5126-40ef-a605-1362f0c875e7)
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/b6bdf992-727d-4ed1-9041-83fe3a0e1733)
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/1efee791-9187-4993-bdd8-9612b2c0b885)
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a20a0a9c-5ec1-422e-8daf-4bdea007272a)
 
 
-
-
 ## Images
 - High-quality images are incorporated to enhance the visual appeal and understanding of the content.
 
+## Supplements Content
+L-theanine: Information about L-theanine, its sources, and potential cognitive benefits.
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/d3a9339b-00d0-4f0c-9a06-b64596e7ed51)
+
+Omega-3 Fatty Acids: Details about omega-3 supplements, their importance for brain health, and potential cognitive advantages.
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/138173be-ed60-423b-be32-6918067b8599)
+
+
+Ginkgo Biloba: Information on Ginkgo biloba extract, its potential cognitive benefits, and antioxidant qualities.
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/01403ba0-71bb-4298-86e9-c6ba1d908699)
+
+
+Rhodiola Rosea: Details about Rhodiola rosea as a nootropic, its potential cognitive benefits, and stress reduction properties.
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/0165e239-9d93-4138-abfe-b253002cbc95)
 
 
 ## Footer
@@ -82,9 +94,9 @@ All images used on the Nootropic Information Website are sourced from the follow
 
 ### Validation and Testing
 
-- Prior to deployment, the HTML and CSS code underwent thorough validation using W3C services. This validation process ensures that the code complies with industry standards, minimizing the risk of compatibility issues and enhancing the website's overall performance.
+- The HTML and CSS were tested in https://jigsaw.w3.org/css-validator/ and https://validator.w3.org/. This validation process ensures that the code complies with industry standards, minimizing the risk of compatibility issues and enhancing the website's overall performance.
 
-### Lighthouse testing
+### Lighthouse Results
 
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/c73bd51a-3424-4c16-8f67-97ce15d52186)
@@ -112,7 +124,14 @@ All images used on the Nootropic Information Website are sourced from the follow
 
 ### Deployment
 
-- The website is hosted on GitHub Pages, ensuring wide accessibility and ease of maintenance.
+The website was deployed on GitHub pages with the following steps:
+
+In the GitHub repository, navigate to the Settings tab.
+From the source section drop-down menu, select the Main Branch.
+Once the main branch has been selected, the page will provide a link to the completed deployment.
+
+### How to fork this repository
+Click on the "Fork" button at the top right of the page and wait for a couple of seconds for the newly forked repository to be created under your GitHub account.
 
 ### Contact Page
 
@@ -123,7 +142,6 @@ All images used on the Nootropic Information Website are sourced from the follow
 
 - The website uses Font Awesome icons for enhanced user experience and design.
 
----
-
 ### Site tested for responsiveness and how it appears on various screen sizes
 
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/ee4deb8b-217d-4957-bdac-7494079e41fa)
