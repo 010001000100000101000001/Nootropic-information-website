@@ -39,7 +39,7 @@ body {
 
 /* Header */
 header {
-    background-color: #CBF7FF;
+    background-color: #1228b4;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -60,7 +60,7 @@ header {
 
 header a {
     text-decoration: dashed;
-    color: #000000;
+    color: #ffffff;
 }
 
 h1 {
@@ -82,13 +82,17 @@ h1 {
 
 nav {
     position: absolute;
-    background-color: #CBF7FF;
+    background-color: #1228b4;
     width: 100%;
     left: 0;
     padding: 0 1rem;
     box-shadow: 3px 3px #404040;
     display: none;
     top: 100%;
+}
+
+#menu li a {
+    color: #ffffff;
 }
 
 #nav-toggle:checked~nav {
@@ -102,6 +106,11 @@ nav {
 .navigation-toggle-label {
     font-size: medium;
 }
+
+.navigation-toggle-label i {
+    color: #ffffff;
+}
+
 
 /* Main content */
 main {
@@ -294,8 +303,8 @@ margin-top: 20px;
 
 #contact-form input[type="submit"] {
     width: 100%;
-    background-color: #CBF7FF;
-    color: #000000;
+    background-color: #1228b4;
+    color: #ffffff;
     border-radius: 5px;
     border: 1px solid #ccc;
 }
