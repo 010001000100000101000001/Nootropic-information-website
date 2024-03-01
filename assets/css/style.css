@@ -215,6 +215,7 @@ footer {
     flex-direction: column;
     align-items: center;
     margin-bottom: 2rem;
+    margin-top: 40px;
 }
 
 .supplements-page section .images {
