@@ -129,6 +129,8 @@ All images used on the Nootropic Information Website are sourced from the follow
 - [Freepik](https://www.freepik.com/)
 - [Flickr](https://www.flickr.com/)
 
+The website uses Font Awesome icons for enhanced user experience and design.
+
 ## Technical Details
 
 ### HTML and CSS
@@ -141,21 +143,30 @@ All images used on the Nootropic Information Website are sourced from the follow
 
 ### Lighthouse Results
 
+Mobile:
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/c73bd51a-3424-4c16-8f67-97ce15d52186)
 
+Mobile:
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/79e459c8-8146-4720-9459-9d5a53195c8e)
 
+Mobile:
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/af5df37f-5a9c-4150-b817-a800b2c0c0f2)
 
 
+Desktop:
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/cb42b08a-6e8f-4c27-b94c-e29c2ca26387)
 
 
+Desktop:
+
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/08c84aa1-9a03-4784-8036-18a4fcb424df)
 
+
+Desktop:
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/8ec32f16-3b26-4f48-b55f-ad6c863c4ed0)
 
@@ -185,7 +196,6 @@ Given more time and considering my current commitments, I would focus on enhanci
 
 - **Caching Strategies**: Implementing caching strategies such as browser caching and server-side caching to store static assets and reduce server load and response times for returning visitors.
 
-- The website uses Font Awesome icons for enhanced user experience and design.
 
 ### Site tested for responsiveness and how it appears on various screen sizes
 
