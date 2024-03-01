@@ -189,6 +189,10 @@ footer {
     margin-bottom: 10px;
 }
 
+#social-networks a i {
+    color: #1228b4; /
+}
+
 #social-networks ul {
     list-style: none;
     display: flex;
