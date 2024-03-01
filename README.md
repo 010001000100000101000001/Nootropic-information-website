@@ -19,9 +19,13 @@ Before delving into any supplement regimen or making changes to your health habi
 
 
 ## Main Content
-- Informative sections are provided, offering an introduction to nootropics and detailed information about their benefits and some information about the history of nootropics.
+
+**Hero Section**: At the top of the home page, there's an engaging section featuring a captivating image and an introduction to Nootropics, setting the tone for the website.
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/a8049304-347e-4f53-b1c2-457c71654a1b)
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/b6bdf992-727d-4ed1-9041-83fe3a0e1733)
+
+As you scroll down the page there is more images and more information about nootropics.
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/1efee791-9187-4993-bdd8-9612b2c0b885)
 
@@ -32,31 +36,25 @@ Before delving into any supplement regimen or making changes to your health habi
 - High-quality images are incorporated to enhance the visual appeal and understanding of the content.
 
 ## Supplements Content
+**Informative Sections**: Detailed information about different Nootropics is provided in these sections, offering insights into their cognitive benefits.
+  
 L-theanine: Information about L-theanine, its sources, and potential cognitive benefits.
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/d3a9339b-00d0-4f0c-9a06-b64596e7ed51)
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/e6143ccd-d21f-4da0-9d9b-4f8880ad7b02)
+
 
 Omega-3 Fatty Acids: Details about omega-3 supplements, their importance for brain health, and potential cognitive advantages.
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/138173be-ed60-423b-be32-6918067b8599)
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/cc96649d-fe28-4409-a904-6c44d712a485)
+
 
 
 Ginkgo Biloba: Information on Ginkgo biloba extract, its potential cognitive benefits, and antioxidant qualities.
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/01403ba0-71bb-4298-86e9-c6ba1d908699)
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/b91c27d2-e2ba-4046-b948-2a658b8b5688)
+
 
 
 Rhodiola Rosea: Details about Rhodiola rosea as a nootropic, its potential cognitive benefits, and stress reduction properties.
-![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/0165e239-9d93-4138-abfe-b253002cbc95)
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/88115eb7-81ea-434d-a3cb-d3fc8a5bd1bc)
 
-
-## Footer
-- The footer contains links to social media platforms and a disclaimer regarding the content presented on the website.
-
-
-
-### Main Content
-
-- **Hero Section**: At the top of the home page, there's an engaging section featuring a captivating image and an introduction to Nootropics, setting the tone for the website.
-
-- **Informative Sections**: Detailed information about different Nootropics is provided in these sections, offering insights into their cognitive benefits.
 
 
 ### Footer
@@ -73,6 +71,16 @@ Upon clicking "Disclaimer," visitors are presented with a detailed disclaimer, h
 
 ![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/6911c25f-61ac-4b27-850d-8ee19b46ef27)
 
+## Contact Page
+The contact page of the Nootropic Information Website allows visitors to get in touch with the website owners or administrators. It includes a simple contact form for submitting inquiries or questions.
+
+### Form
+- **Full Name Field**: Visitors can enter their full name in this field.
+- **Email Field**: Visitors can enter their email address in this field.
+- **Question Textarea**: Visitors can type their questions or inquiries in this textarea field.
+- **Submit Button**: Clicking this button submits the filled form data to the specified endpoint for processing.
+
+![image](https://github.com/010001000100000101000001/Nootropic-information-website/assets/147556282/08f69618-4f89-4f26-ab1e-fcfd5b4bdf70)
 
 
 ## Credits
@@ -118,10 +126,6 @@ All images used on the Nootropic Information Website are sourced from the follow
 
 
 
-
-
-
-
 ### Deployment
 
 The website was deployed on GitHub pages with the following steps:
@@ -139,6 +143,15 @@ Click on the "Fork" button at the top right of the page and wait for a couple of
 
 
 ### Additional Notes
+Given more time and considering my current commitments, I would focus on enhancing the performance of the website by conducting an audit of the `style.css` file and implementing optimizations to improve loading times. This could involve:
+
+- **CSS Optimization**: Auditing the `style.css` file to identify opportunities for optimization, such as removing unused styles, consolidating similar styles, and minifying the CSS to reduce file size.
+  
+- **Image Optimization**: Evaluating the images used on the website and optimizing their sizes to reduce bandwidth consumption and improve loading speed. This could involve compressing images without sacrificing quality.
+
+- **Code Minification**: Minifying HTML and CSS files to reduce file sizes and improve load times.
+
+- **Caching Strategies**: Implementing caching strategies such as browser caching and server-side caching to store static assets and reduce server load and response times for returning visitors.
 
 - The website uses Font Awesome icons for enhanced user experience and design.
 
