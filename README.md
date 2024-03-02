@@ -139,7 +139,7 @@ The website uses Font Awesome icons for enhanced user experience and design.
 
 ### Validation and Testing
 
-- The HTML and CSS were tested in https://jigsaw.w3.org/css-validator/ and https://validator.w3.org/. This validation process ensures that the code complies with industry standards, minimizing the risk of compatibility issues and enhancing the website's overall performance.
+- The HTML and CSS were tested in https://jigsaw.w3.org/css-validator/ and https://validator.w3.org/. This validation process ensures that the code complies with industry standards, minimizing the risk of compatibility issues and enhancing the website's overall performance. I tested this app on several devices and using dev tools in the browser to make sure the website is responsive.
 
 ### Lighthouse Results
 
